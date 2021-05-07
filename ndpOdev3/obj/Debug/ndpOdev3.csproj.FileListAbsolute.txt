@@ -1,0 +1,20 @@
+C:\Users\Serha\source\repos\ndpOdev3\ndpOdev3\bin\Debug\ndpOdev3.exe.config
+C:\Users\Serha\source\repos\ndpOdev3\ndpOdev3\bin\Debug\ndpOdev3.exe
+C:\Users\Serha\source\repos\ndpOdev3\ndpOdev3\bin\Debug\ndpOdev3.pdb
+C:\Users\Serha\source\repos\ndpOdev3\ndpOdev3\obj\Debug\ndpOdev3.csprojAssemblyReference.cache
+C:\Users\Serha\source\repos\ndpOdev3\ndpOdev3\obj\Debug\ndpOdev3.Form1.resources
+C:\Users\Serha\source\repos\ndpOdev3\ndpOdev3\obj\Debug\ndpOdev3.Properties.Resources.resources
+C:\Users\Serha\source\repos\ndpOdev3\ndpOdev3\obj\Debug\ndpOdev3.csproj.GenerateResource.cache
+C:\Users\Serha\source\repos\ndpOdev3\ndpOdev3\obj\Debug\ndpOdev3.csproj.CoreCompileInputs.cache
+C:\Users\Serha\source\repos\ndpOdev3\ndpOdev3\obj\Debug\ndpOdev3.exe
+C:\Users\Serha\source\repos\ndpOdev3\ndpOdev3\obj\Debug\ndpOdev3.pdb
+C:\Users\Serha\source\repos\alısveris sistemi\ndpOdev3\bin\Debug\ndpOdev3.exe.config
+C:\Users\Serha\source\repos\alısveris sistemi\ndpOdev3\bin\Debug\ndpOdev3.exe
+C:\Users\Serha\source\repos\alısveris sistemi\ndpOdev3\bin\Debug\ndpOdev3.pdb
+C:\Users\Serha\source\repos\alısveris sistemi\ndpOdev3\obj\Debug\ndpOdev3.csprojAssemblyReference.cache
+C:\Users\Serha\source\repos\alısveris sistemi\ndpOdev3\obj\Debug\ndpOdev3.Form1.resources
+C:\Users\Serha\source\repos\alısveris sistemi\ndpOdev3\obj\Debug\ndpOdev3.Properties.Resources.resources
+C:\Users\Serha\source\repos\alısveris sistemi\ndpOdev3\obj\Debug\ndpOdev3.csproj.GenerateResource.cache
+C:\Users\Serha\source\repos\alısveris sistemi\ndpOdev3\obj\Debug\ndpOdev3.csproj.CoreCompileInputs.cache
+C:\Users\Serha\source\repos\alısveris sistemi\ndpOdev3\obj\Debug\ndpOdev3.exe
+C:\Users\Serha\source\repos\alısveris sistemi\ndpOdev3\obj\Debug\ndpOdev3.pdb
